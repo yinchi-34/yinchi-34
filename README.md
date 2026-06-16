@@ -18,3 +18,7 @@ anime:
   - Air
   - K-On!
   - Code Geass: Lelouch of the Rebellion
+  - Mushishi
+
+books:
+  - Natsuhiko Kyogoku
