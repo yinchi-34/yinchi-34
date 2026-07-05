@@ -1,31 +1,7 @@
-I'm trying everything except coding
+Backend Engineering
 
-currently_learning:
-  - System Design
-  - AI Engineering
-  - Psychology
-
-recent_goals:
-
-  - Refactor my personal website
-  - Reproduce results from a research paper
-  - Turn messy experience into reusable skills
-
-soundtrack:
-  - Sodagreen
-  - Jason Mraz
-  - Coldplay
-  - Imagine Dragons
-  - Jessie J
-  - Jennifer Hudson
-
-anime:
-  - Clannad
-  - Air
-  - K-ON!
-  - Code Geass: Lelouch of the Rebellion
-  - Darker than Black
-  - Mushishi
-
-books:
-  - Natsuhiko Kyogoku
+- Languages: Python, Go
+- Frameworks: FastAPI, Django, Django REST Framework
+- Databases: MySQL, PostgreSQL, InfluxDB, Redis
+- Engineering: REST API, ORM, transactions, row locks, batch writes, scheduled tasks
+- Tools: Linux, Docker Compose, Git, PyCharm, VS Code, Claude Code, Codex
