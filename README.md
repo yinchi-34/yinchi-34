@@ -1,6 +1,7 @@
 # Hi, I'm Yinchi 👋
 
-**Backend Engineer** · Python & Go
+**Backend Engineer** · Python & Go  
+
 I build backend systems for enterprise workflows, task scheduling and data processing, and I'm currently digging into Go, RAG and agent design.
 I care about *why* something works, not just making it work.
 
@@ -20,10 +21,6 @@ I care about *why* something works, not just making it work.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
----
-## 🚀 What I'm Building
-### [Device AI Agent](https://github.com/yinchi-34/device-ai-agent)
-### [LeetCode in Go](https://github.com/yinchi-34/leetcode-go)
 ---
 ## 🔬 What I'm Exploring
 - **Backend Engineering:** concurrency, transactions, scheduling, performance
