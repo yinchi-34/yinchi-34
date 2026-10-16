@@ -12,4 +12,3 @@ Building backend systems. Interested in system design, concurrency, and AI.
 - **Projects:** [Device AI Agent](https://github.com/yinchi-34/device-ai-agent) · [LeetCode Go](https://github.com/yinchi-34/leetcode-go)
 ---
 
-*Understand → Implement → Question → Refine.*
